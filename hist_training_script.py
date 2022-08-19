@@ -1,8 +1,3 @@
-'''
-Created on 15-May-2020
-
-@author: pranab
-'''
 
 import os
 import tensorflow as tf
