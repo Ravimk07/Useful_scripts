@@ -1,7 +1,3 @@
-"""
-updated on 27th May,2021
-@author: adarshK
-"""
 
 import sys
 import numpy as np
